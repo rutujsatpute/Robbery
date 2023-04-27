@@ -1,0 +1,15 @@
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\bin\Debug\net6.0\Robber.exe
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\bin\Debug\net6.0\Robber.deps.json
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\bin\Debug\net6.0\Robber.runtimeconfig.json
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\bin\Debug\net6.0\Robber.dll
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\bin\Debug\net6.0\Robber.pdb
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\Robber.csproj.AssemblyReference.cache
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\Robber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\Robber.AssemblyInfoInputs.cache
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\Robber.AssemblyInfo.cs
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\Robber.csproj.CoreCompileInputs.cache
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\Robber.dll
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\refint\Robber.dll
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\Robber.pdb
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\Robber.genruntimeconfig.cache
+C:\Users\rsatpute\Desktop\Assignment\Robber\Robber\obj\Debug\net6.0\ref\Robber.dll
